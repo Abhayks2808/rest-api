@@ -109,3 +109,6 @@ If you need to add more routes to the project just create a new file in `/routes
 ### Creating new controllers
 
 If you need to add more controllers to the project just create a new file in `/controllers/` and use them in the routes.
+## uplading image
+
+create a folder `/uploads/` for storing images
