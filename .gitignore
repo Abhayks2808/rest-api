@@ -1,0 +1,6 @@
+#dependency_directory
+node_modules
+#dot environment variable file
+.env
+#vscode configurations
+.vscode/
