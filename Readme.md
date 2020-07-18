@@ -2,11 +2,11 @@
 
 A ready-to-use boilerplate for REST API Development with Node.js, Express, and MongoDB
 
-##Getting Started
+## Getting Started
 This is a simple basic setup of ECOmmerce rest Api wiriiten in nodejs.It is very useful to create
 a restful api for your front end frameworks like react,vue,angular to interact properly with backend.
 
-##Advertise for internship/Work Contract
+## Advertise for internship/Work Contract
 I am looking for good internship or work Contract.You can connect with me directly on my email(Abhayks2808@gmail.com) or you can download my cv  from my personal portfolio [website](https://restorative-lids.000webhostapp.com/).Looking forward.Thanks :smile:
 
 ##features
