@@ -9,7 +9,7 @@ a restful api for your front end frameworks like react,vue,angular to interact p
 ## Advertise for internship/Work Contract
 I am looking for good internship or work Contract.You can connect with me directly on my email(Abhayks2808@gmail.com) or you can download my cv  from my personal portfolio [website](https://restorative-lids.000webhostapp.com/).Looking forward.Thanks :smile:
 
-##features
+## features
 -   Basic Authentication (Register/Login with hashed password)
 -   JWT Tokens, make requests with a token after login with `Authorization` header with value `Bearer yourToken` where `yourToken` will be returned in Login response.
 -   Included CORS.
